@@ -1,4 +1,4 @@
-2025-04-08 18:23:28.769184 - Received CBT.V508.FILE084.PDS from FILE084.XMI 
-2025-04-08 18:23:28.770923 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE084.PDS, moved to PDS/$$$#DATE
-2025-04-08 18:23:28.771561 - Found @FILE084.txt (text/plain) in CBT.V508.FILE084.PDS, moved to PDS/@FILE084
-2025-04-08 18:23:28.772111 - Found MAPLPA.bin (application/octet-stream) in CBT.V508.FILE084.PDS, moved to PDS/MAPLPA
+2025-04-08 22:53:49.840931 - Received CBT.V508.FILE084.PDS from FILE084.XMI 
+2025-04-08 22:53:49.842319 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE084.PDS, moved to PDS/$$$#DATE
+2025-04-08 22:53:49.842996 - Found @FILE084.txt (text/plain) in CBT.V508.FILE084.PDS, moved to PDS/@FILE084
+2025-04-08 22:53:49.843608 - Found MAPLPA.bin (application/octet-stream) in CBT.V508.FILE084.PDS, moved to PDS/MAPLPA
